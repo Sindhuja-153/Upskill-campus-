@@ -26,6 +26,3 @@ The system successfully detects traffic density and adjusts signals dynamically 
 
 ## Conclusion
 The smart traffic management system improves traffic efficiency and helps reduce traffic jams using AI and IoT technologies.
-
-## Author
-Sindhuja k 
